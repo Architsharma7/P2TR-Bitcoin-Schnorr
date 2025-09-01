@@ -1,0 +1,17 @@
+{
+  "name": "address-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.7",
+    "ecpair": "^3.0.0",
+    "tiny-secp256k1": "^2.2.4"
+  }
+}
